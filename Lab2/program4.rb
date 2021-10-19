@@ -12,4 +12,4 @@ def dec2bin(number)
   ret_bin
 end
 
-print "Res is:" + dec2bin(828).to_s
+print "Res is:" + dec2bin(128).to_s

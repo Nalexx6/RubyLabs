@@ -1,6 +1,6 @@
 #Variant 8
 
-$binary = "10000000001"
+$binary = "1100111100"
 $res = 0
 
 (0..$binary.size - 1).each { |i|
