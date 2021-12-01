@@ -72,7 +72,7 @@ def gauss
     end
   end
 
-  # puts a.map(&:inspect), "\n"
+  puts a.map(&:inspect), "\n"
 
   b
 
